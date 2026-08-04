@@ -106,7 +106,7 @@ class EmployeeService
             $file_name = 'qrcode-' . preg_replace("/[^0-9]/", "", $request->input('phone')) . '.png';
             $data['barcode']  = $file_name;
             $file = public_path('qrcode/' . $file_name);
-            QRCode::size(300)->format('png')->generate(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
+            generate_qrcode_png(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
 
             $result = Employee::create($data);
 
@@ -152,7 +152,7 @@ class EmployeeService
             $file_name = 'qrcode-' . preg_replace("/[^0-9]/", "", $request->input('phone')) . '.png';
             $data['barcode']  = $file_name;
             $file = public_path('qrcode/' . $file_name);
-            QRCode::size(300)->format('png')->generate(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
+            generate_qrcode_png(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
 
             $employee->update($data);
 
