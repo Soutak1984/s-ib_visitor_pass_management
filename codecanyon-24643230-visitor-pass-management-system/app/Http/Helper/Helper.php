@@ -55,6 +55,92 @@ if (! function_exists('attachMediaFromRequest')) {
 }
 
 /**
+ * Generate a QR code PNG without depending on a full ImageMagick install.
+ * Portable PHP often has Imagick loaded but missing IM_MOD_RL_png_.dll, which
+ * breaks simplesoftwareio/simple-qrcode format('png'). This helper uses GD.
+ *
+ * @param  string  $content  Text/URL to encode
+ * @param  string  $path     Absolute file path ending in .png
+ * @param  int     $size     Output image size in pixels
+ * @return void
+ */
+if (! function_exists('generate_qrcode_png')) {
+    function generate_qrcode_png(string $content, string $path, int $size = 300): void
+    {
+        $directory = dirname($path);
+        if (! is_dir($directory)) {
+            mkdir($directory, 0755, true);
+        }
+
+        // Try Imagick-based generator first (works when ImageMagick PNG module is present).
+        try {
+            if (extension_loaded('imagick')) {
+                \SimpleSoftwareIO\QrCode\Facades\QrCode::size($size)
+                    ->format('png')
+                    ->generate($content, $path);
+
+                if (is_file($path) && filesize($path) > 0) {
+                    return;
+                }
+            }
+        } catch (\Throwable $e) {
+            // Fall through to GD renderer.
+        }
+
+        if (! function_exists('imagecreatetruecolor')) {
+            throw new \RuntimeException(
+                'Cannot generate QR code PNG: Imagick PNG support failed and GD is not available.'
+            );
+        }
+
+        $qrCode = \BaconQrCode\Encoder\Encoder::encode(
+            $content,
+            \BaconQrCode\Common\ErrorCorrectionLevel::L()
+        );
+        $matrix = $qrCode->getMatrix();
+        $moduleCount = $matrix->getWidth();
+        $margin = 2;
+        $totalModules = $moduleCount + ($margin * 2);
+        $moduleSize = max(1, intdiv($size, $totalModules));
+        $imageSize = $moduleSize * $totalModules;
+
+        $image = imagecreatetruecolor($imageSize, $imageSize);
+        if ($image === false) {
+            throw new \RuntimeException('Failed to create GD image for QR code.');
+        }
+
+        $white = imagecolorallocate($image, 255, 255, 255);
+        $black = imagecolorallocate($image, 0, 0, 0);
+        imagefill($image, 0, 0, $white);
+
+        for ($y = 0; $y < $moduleCount; $y++) {
+            for ($x = 0; $x < $moduleCount; $x++) {
+                // Dark modules are 1 in BaconQrCode matrix.
+                if ($matrix->get($x, $y) === 1) {
+                    $x1 = ($x + $margin) * $moduleSize;
+                    $y1 = ($y + $margin) * $moduleSize;
+                    imagefilledrectangle(
+                        $image,
+                        $x1,
+                        $y1,
+                        $x1 + $moduleSize - 1,
+                        $y1 + $moduleSize - 1,
+                        $black
+                    );
+                }
+            }
+        }
+
+        if (! imagepng($image, $path)) {
+            imagedestroy($image);
+            throw new \RuntimeException('Failed to write QR code PNG to: ' . $path);
+        }
+
+        imagedestroy($image);
+    }
+}
+
+/**
  * Get domain (host without sub-domain)
  *
  * @param null $url
