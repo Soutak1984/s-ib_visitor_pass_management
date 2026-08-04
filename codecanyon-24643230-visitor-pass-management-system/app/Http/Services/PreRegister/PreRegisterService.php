@@ -97,7 +97,7 @@ class PreRegisterService
         $file_name = 'qrcode-' . preg_replace("/[^0-9]/", "", $request->input('phone')) . '.png';
         $input['barcode']                    = $file_name;
         $file = public_path('qrcode/' . $file_name);
-        QRCode::size(300)->format('png')->generate(route('checkin.pre-visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
+        generate_qrcode_png(route('checkin.pre-visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
         $visitor                     = Visitor::create($input);
 
         $result                       = '';
@@ -154,7 +154,7 @@ class PreRegisterService
         $file_name = 'qrcode-' . preg_replace("/[^0-9]/", "", $request->input('phone')) . '.png';
         $input['barcode']                    = $file_name;
         $file = public_path('qrcode/' . $file_name);
-        QRCode::size(300)->format('png')->generate(route('checkin.pre-visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
+        generate_qrcode_png(route('checkin.pre-visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
 
         $pre_register->visitor->update($input);
         if (auth()->user()->getrole->name == 'Employee') {
