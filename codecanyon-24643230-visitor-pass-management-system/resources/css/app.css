@@ -1,0 +1,165 @@
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --primary : #002793;
+        --success : #3CCF65;
+        --danger :#EC4F55;
+        --client-font : 'Plus Jakarta Sans',sans-serif;  
+    
+    }
+    body { @apply font-client bg-mobileBg md:bg-heroBg bg-cover bg-no-repeat bg-fixed}
+    hr{@apply border-none}
+    button{ @apply leading-none}
+  }
+@layer components {
+
+  /*===================================
+            LAYOUT PART START
+  ====================================*/
+     
+  .container { @apply max-w-[1200px] mx-auto px-4}
+  .row { @apply flex flex-wrap -m-3 }
+  .col-1 { @apply w-1/6 p-3 }
+  .col-2 { @apply w-1/5 p-3 }
+  .col-3 { @apply w-1/4 p-3 }
+  .col-4 { @apply w-1/3 p-3 }
+  .col-5 { @apply w-2/5 p-3 }
+  .col-6 { @apply w-1/2 p-3 }
+  .col-7 { @apply w-3/5 p-3 }
+  .col-8 { @apply w-2/3 p-3 }
+  .col-9 { @apply w-3/4 p-3 }
+  .col-10 { @apply w-4/5 p-3 }
+  .col-11 { @apply w-5/6 p-3 }
+  .col-12 { @apply w-full p-3 }
+
+  /*===================================
+            LAYOUT PART END
+  ====================================*/
+
+  .hamburger{@apply w-7 h-[2px] bg-white my-1}
+  .sidebar-active {@apply !opacity-100 !visible}
+  .sidebar-active > div {@apply !translate-y-0 }
+  .dropdown-active > ul {@apply block transition-all duration-300 ease-in-out}
+  }  
+
+      /*===================================
+                CUSTOM STYLE PART START
+      ====================================*/
+    @layer utilities {
+      .imgGroup{
+        display: grid;
+        grid-template-rows: 150px 1fr;
+        grid-template-columns: repeat(12,minmax(13px, 1fr));
+        max-width: 497px;
+        width: 100%;
+      }
+      .img1{
+        grid-column-start: 6;
+        grid-column-end: 13;
+        max-width: 332px;
+        width: 100%;
+       
+      }
+      .img2{
+        grid-column-start: 1;
+        grid-column-end: 10;
+        max-width: 397px;
+        width: 100%;
+        
+      }
+      .required::after{
+        content: "*";
+        color: red;
+      }
+      .scan{
+      background:
+      linear-gradient(to right, var(--primary) 3px, transparent 3px) 0 0,
+      linear-gradient(to right, var(--primary) 3px, transparent 3px) 0 100%,
+      linear-gradient(to left, var(--primary) 3px, transparent 3px) 100% 0,
+      linear-gradient(to left, var(--primary) 3px, transparent 3px) 100% 100%,
+      linear-gradient(to bottom, var(--primary) 3px, transparent 3px) 0 0,
+      linear-gradient(to bottom, var(--primary) 3px, transparent 3px) 100% 0,
+      linear-gradient(to top, var(--primary) 3px, transparent 3px) 0 100%,
+      linear-gradient(to top, var(--primary) 3px, transparent 3px) 100% 100%;
+      background-repeat: no-repeat;
+      background-size: 75px 75px;
+      }
+    header img[alt="logo"] { 
+      filter: drop-shadow(0px 5px 4px #cecccc); 
+    }
+    .fa-chevron-down{
+      transition: transform 0.3s ease-in-out;
+    }
+  .fa-chevron-down.rotate {
+      transform: rotate(180deg);  
+  }
+  .checkboxItem {
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+    line-height: 1;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .checkboxItem:not(:last-of-type) {
+    margin-bottom: 8px;
+  }
+  
+  .checkbox {
+    appearance: none;
+    position: relative;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #002793;
+    border-radius: 4px;
+    background-color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .checkbox:checked {
+    background-color: #002793;
+  }
+  .max-w-40{
+    max-width: 160px;
+  }
+  .h-24{
+    height: 96px;
+  }
+  .flex-row{
+    flex-direction: row !important;
+  }
+  .flex-col{
+    flex-direction: column !important;
+  }
+  
+  .checkbox:checked::after {
+    content: "";
+    position: absolute;
+    top: 18%;
+    left: 18%;
+    width: 10px;
+    height: 6px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    transform: rotate(-45deg);
+  }
+  .is-invalid {@apply border !border-danger}
+
+  .invalid-feedback {@apply text-xs !text-danger}
+
+    @media only screen and (max-width: 400px){
+      .imgGroup{
+        grid-template-rows: 90px 1fr;
+      }
+    }
+   
+}
+
+/*===================================
+      CUSTOM STYLE PART END
+ ====================================*/
