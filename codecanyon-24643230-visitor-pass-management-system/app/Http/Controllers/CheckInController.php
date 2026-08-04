@@ -272,7 +272,7 @@ public function store(Request $request)
         ];
 
         $file = public_path('qrcode/qrcode-' . $phoneClean . '.png');
-        QrCode::size(300)->format('png')->generate(route('checkin.visitor-details', $phoneClean), $file);
+        generate_qrcode_png(route('checkin.visitor-details', $phoneClean), $file);
         $visitor = Visitor::create($input);
     } 
     // ==============================
@@ -301,7 +301,7 @@ public function store(Request $request)
         $visitor->barcode = 'qrcode-' . $phoneClean . '.png';
 
         $file = public_path('qrcode/qrcode-' . $phoneClean . '.png');
-        QrCode::size(300)->format('png')->generate(route('checkin.visitor-details', $phoneClean), $file);
+        generate_qrcode_png(route('checkin.visitor-details', $phoneClean), $file);
         $visitor->save();
     }
 
