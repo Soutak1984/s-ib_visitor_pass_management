@@ -174,7 +174,7 @@ class VisitorService
         $file_name = 'qrcode-' . preg_replace("/[^0-9]/", "", $request->input('phone')) . '.png';
         $input['barcode']  = $file_name;
         $file = public_path('qrcode/' . $file_name);
-        QRCode::size(300)->format('png')->generate(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
+        generate_qrcode_png(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request->input('phone'))), $file);
         $visitor = Visitor::create($input);
 
         if ($visitor) {
@@ -275,7 +275,7 @@ public function update($request, $id)
         $file_name = 'qrcode-' . preg_replace("/[^0-9]/", "", $request['phone']) . '.png';
         $visitor->barcode = $file_name;
         $file = public_path('qrcode/' . $file_name);
-        QRCode::size(300)->format('png')->generate(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request['phone'])), $file);
+        generate_qrcode_png(route('checkin.visitor-details', preg_replace("/[^0-9]/", "", $request['phone'])), $file);
         $visitor->save();
         if ($visitor) {
             $visiting['reg_no'] = $reg_no;
