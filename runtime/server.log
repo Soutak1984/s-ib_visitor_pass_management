@@ -1,0 +1,1562 @@
+2026-08-04 13:41:24  Installed ONLOGON task
+2026-08-04 13:43:28  Installed ONSTART task for current user
+2026-08-04 13:43:51  Starting server on http://127.0.0.1:8000
+
+----- server start 2026-08-04 13:43:51 port=8000 -----
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-04 13:43:53 ........................................................................................... ~ 0s
+  2026-08-04 13:43:53 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 13:43:53 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 13:43:53 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 13:43:53 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 13:43:53 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 13:43:53 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 13:43:53 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 13:43:53 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 13:43:53 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 13:43:53 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 13:43:53 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 13:43:53 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 13:43:53 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 13:43:53 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 13:43:57 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 13:44:01 ........................................................................................... ~ 0s
+  2026-08-04 13:44:01 ........................................................................................... ~ 0s
+  2026-08-04 13:44:02 ........................................................................................... ~ 0s
+2026-08-04 13:46:15  Starting server on http://127.0.0.1:8000
+
+----- server start 2026-08-04 13:46:15 port=8000 -----
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-04 13:46:55 ....................................
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-04 14:07:06 ........................................................................................... ~ 0s
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-04 14:07:22 ........................................................................................... ~ 0s
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-04 14:07:38 ........................................................................................... ~ 0s
+  2026-08-04 14:07:38 .......................................................................................... ~ 12s
+  2026-08-04 14:07:54 ........................................................................................... ~ 0s
+  2026-08-04 14:07:54 ........................................................................................... ~ 1s
+/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 13:47:14 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 13:47:14 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 13:47:14 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 13:47:14 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 13:47:14 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 13:47:14 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 13:47:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 13:47:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 13:47:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 13:47:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 1s
+  2026-08-04 13:47:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 1s
+  2026-08-04 13:47:14 /frontend/images/hero/mobilebg.png ........................................................ ~ 1s
+  2026-08-04 13:47:14 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 1s
+  2026-08-04 13:47:15 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 13:47:30 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 13:47:33 ........................................................................................... ~ 1s
+  2026-08-04 13:47:34 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 13:47:34 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 13:47:34 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 13:47:34 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 13:47:34 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 13:47:34 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 13:47:34 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 13:47:34 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 13:47:34 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 13:47:34 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 13:47:34 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 13:47:34 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 13:47:34 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 13:47:34 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 13:51:57 ........................................................................................... ~ 0s
+  2026-08-04 13:51:59 ........................................................................................... ~ 1s
+  2026-08-04 13:52:00 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 13:52:00 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 13:52:00 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 13:52:00 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 13:52:00 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 13:52:00 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 13:52:00 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 13:52:00 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 13:52:00 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 13:52:00 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 13:52:00 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 13:52:00 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 13:52:00 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 13:52:00 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 13:52:06 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 13:54:12 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 13:55:44 ........................................................................................... ~ 0s
+2026-08-04 13:55:54  Already running on http://visitorpass.local:8090
+2026-08-04 14:07:35  Starting server on http://visitorpass.localhost (bind 127.0.0.1:80)
+
+----- server start 2026-08-04 14:07:35 url=http://visitorpass.localhost bind=127.0.0.1:80 -----
+
+   INFO  Server running on [http://127.0.0.1:80].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-04 14:07:53 ........................................................................................... ~ 1s
+  2026-08-04 14:07:54 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:07:54 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:07:54 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:07:54 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:07:54 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:07:55 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:07:55 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:07:55 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:07:55 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:07:55 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:07:55 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:07:55 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:07:55 ........................................................................................... ~ 0s
+  2026-08-04 14:07:55 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:07:55 ........................................................................................... ~ 0s
+  2026-08-04 14:07:55 ........................................................................................... ~ 1s
+  2026-08-04 14:07:56 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:07:57 ........................................................................................... ~ 0s
+  2026-08-04 14:07:57 ........................................................................................... ~ 0s
+  2026-08-04 14:07:57 ........................................................................................... ~ 1s
+  2026-08-04 14:07:56 .......................................................................................... ~ 16s
+2026-08-04 14:10:35  Starting server on http://visitorpass.localhost (bind 127.0.0.1:80)
+
+----- server start 2026-08-04 14:10:35 url=http://visitorpass.localhost bind=127.0.0.1:80 -----
+
+   INFO  Server running on [http://127.0.0.1:80].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-04 14:13:22 .......................................................................................... ~ 16s
+  2026-08-04 14:13:22 /build/assets/app.4109e52c.css ........................................................... ~ 16s
+  2026-08-04 14:13:38 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:13:38 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:13:38 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:13:38 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:13:38 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:13:38 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:13:38 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:13:38 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:13:38 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:13:38 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:13:38 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:13:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:13:38 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:13:39 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:13:39 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:13:47 ........................................................................................... ~ 2s
+  2026-08-04 14:13:47 /build/assets/app.4109e52c.css ............................................................ ~ 2s
+  2026-08-04 14:13:49 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:13:49 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:13:49 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:13:49 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:13:49 /frontend/images/login/login.png .......................................................... ~ 0s
+  2026-08-04 14:13:49 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:13:49 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:13:49 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:13:49 /frontend/js/demo-login.js ................................................................ ~ 0s
+  2026-08-04 14:13:49 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:13:49 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:13:49 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:13:49 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:14:32 ........................................................................................... ~ 0s
+  2026-08-04 14:14:32 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:14:32 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:14:32 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:14:32 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:14:32 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:14:32 /frontend/images/login/login.png .......................................................... ~ 0s
+  2026-08-04 14:14:32 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:14:32 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:14:32 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:14:32 /frontend/js/demo-login.js ................................................................ ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:14:32 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:14:32 /frontend/images/hero/background.jpg ...................................................... ~ 1s
+  2026-08-04 14:14:33 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:14:33 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:14:43 ........................................................................................... ~ 1s
+  2026-08-04 14:14:44 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:14:44 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:14:44 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:14:44 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:14:44 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:14:44 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:14:44 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:14:44 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:14:44 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:14:44 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:14:44 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:14:44 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:14:44 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:14:44 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:14:45 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 14:14:55 ........................................................................................... ~ 0s
+  2026-08-04 14:14:56 ........................................................................................... ~ 0s
+  2026-08-04 14:14:56 ........................................................................................... ~ 0s
+  2026-08-04 14:14:57 ........................................................................................... ~ 0s
+  2026-08-04 14:14:57 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:14:57 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:14:58 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:14:58 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:14:58 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:14:58 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:14:58 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:14:58 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:14:58 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:14:58 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:14:58 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:14:58 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:14:59 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:14:59 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:15:00 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 14:15:00 .......................................................................................... ~ 12s
+  2026-08-04 14:15:33 ........................................................................................... ~ 0s
+  2026-08-04 14:15:34 ........................................................................................... ~ 0s
+  2026-08-04 14:15:34 ........................................................................................... ~ 1s
+  2026-08-04 14:15:38 ........................................................................................... ~ 1s
+  2026-08-04 14:15:38 /build/assets/app.4109e52c.css ............................................................ ~ 1s
+  2026-08-04 14:15:39 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:15:39 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:15:39 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:15:39 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:15:39 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:15:39 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:15:39 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:15:39 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 1s
+  2026-08-04 14:15:39 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 1s
+  2026-08-04 14:15:39 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 1s
+  2026-08-04 14:15:39 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 1s
+  2026-08-04 14:15:40 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:15:40 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:15:40 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:15:40 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 14:15:40 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:15:40 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:15:40 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:15:40 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:15:40 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:15:40 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:15:40 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:15:41 /frontend/images/hero/background.jpg ...................................................... ~ 2s
+  2026-08-04 14:24:55 ........................................................................................... ~ 1s
+  2026-08-04 14:24:55 /build/assets/app.4109e52c.css ............................................................ ~ 1s
+  2026-08-04 14:24:56 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:24:56 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:24:56 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:24:56 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:24:56 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:24:56 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:24:56 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:24:57 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:24:57 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:24:57 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:24:57 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:24:57 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:24:57 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:24:57 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:24:57 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 14:24:57 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:24:57 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:24:57 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:24:57 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:24:57 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:24:57 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:24:58 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 14:24:58 /frontend/images/hero/background.jpg ...................................................... ~ 1s
+  2026-08-04 14:25:01 ........................................................................................... ~ 0s
+  2026-08-04 14:25:01 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:25:01 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:25:02 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:25:02 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:25:02 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:25:02 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:25:02 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:25:02 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:25:02 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:25:02 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:25:02 /frontend/images/login/login.png .......................................................... ~ 0s
+  2026-08-04 14:25:02 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:25:03 /frontend/js/demo-login.js ................................................................ ~ 0s
+  2026-08-04 14:25:09 ........................................................................................... ~ 2s
+  2026-08-04 14:25:09 ........................................................................................... ~ 3s
+  2026-08-04 14:25:11 /build/assets/app.4109e52c.css ............................................................ ~ 1s
+  2026-08-04 14:25:13 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:25:13 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:25:13 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:25:13 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:25:13 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:25:13 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:25:13 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:25:13 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:25:13 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:25:13 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:25:14 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:25:14 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:25:14 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:26:56 ........................................................................................... ~ 0s
+  2026-08-04 14:26:56 ........................................................................................... ~ 1s
+  2026-08-04 14:26:57 ........................................................................................... ~ 0s
+  2026-08-04 14:26:58 ........................................................................................... ~ 0s
+  2026-08-04 14:26:58 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:26:58 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:26:59 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:26:59 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:26:59 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:26:59 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:26:59 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:26:59 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:26:59 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:26:59 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:26:59 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:26:59 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:27:00 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:27:00 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:27:00 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 14:28:28 ........................................................................................... ~ 0s
+  2026-08-04 14:28:28 ........................................................................................... ~ 1s
+  2026-08-04 14:28:29 ........................................................................................... ~ 1s
+  2026-08-04 14:28:30 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:28:30 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:28:30 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:28:30 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:28:30 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:28:30 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:28:30 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:28:30 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:28:31 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:28:31 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:28:31 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:28:31 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:28:31 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:28:31 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:28:31 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:28:31 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 14:28:31 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:28:31 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:28:31 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:28:31 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:28:31 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:28:31 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:28:48 ........................................................................................... ~ 0s
+  2026-08-04 14:28:48 ........................................................................................... ~ 1s
+  2026-08-04 14:28:49 ........................................................................................... ~ 1s
+  2026-08-04 14:28:50 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:28:50 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:28:50 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:28:50 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:28:50 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:28:50 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:28:50 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:28:50 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:28:51 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:28:51 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:28:51 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:28:51 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:28:51 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:28:51 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:28:51 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:28:51 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 14:28:51 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:28:51 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:28:51 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:28:51 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:28:51 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:28:51 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 14:28:56 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:28:56 ........................................................................................... ~ 1s
+  2026-08-04 14:31:35 ........................................................................................... ~ 0s
+  2026-08-04 14:31:35 ........................................................................................... ~ 1s
+  2026-08-04 14:31:36 ........................................................................................... ~ 1s
+  2026-08-04 14:31:37 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 14:31:37 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 14:31:37 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 14:31:37 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 14:31:37 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 14:31:37 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 14:31:37 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 14:31:37 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 14:31:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 14:31:38 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 14:31:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 14:31:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 14:31:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 14:31:38 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 14:31:38 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 14:31:38 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 14:31:38 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 14:31:38 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 14:31:38 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 14:31:38 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 14:31:38 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 14:31:38 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:42:04 ........................................................................................... ~ 2s
+  2026-08-04 15:42:04 /build/assets/app.4109e52c.css ............................................................ ~ 2s
+  2026-08-04 15:42:06 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:42:06 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:42:06 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:42:06 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:42:06 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:42:06 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:42:06 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:42:07 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:42:07 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:42:07 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:42:07 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:42:07 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:42:07 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:42:07 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:42:07 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:42:07 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 15:42:07 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:42:07 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 15:42:07 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 15:42:07 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:42:07 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:42:08 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:42:08 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:42:08 ........................................................................................... ~ 1s
+  2026-08-04 15:42:09 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:42:09 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:42:09 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:42:09 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:42:09 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:42:09 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:42:09 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:42:09 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:42:09 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:42:09 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:42:09 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:42:09 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:42:09 /frontend/images/login/login.png .......................................................... ~ 0s
+  2026-08-04 15:42:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:42:10 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:42:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:42:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:42:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:42:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:42:10 /frontend/js/demo-login.js ................................................................ ~ 0s
+  2026-08-04 15:42:10 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:42:10 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:42:11 .......................................................................................... ~ 23s
+  2026-08-04 15:42:34 ........................................................................................... ~ 1s
+  2026-08-04 15:42:35 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:42:35 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:42:35 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:42:35 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:42:35 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:42:35 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:42:36 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:42:36 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:42:36 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:42:36 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:42:36 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 15:42:36 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 15:42:36 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:42:36 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:42:36 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:42:36 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:42:36 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:42:36 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:42:36 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 15:42:36 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:42:36 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:42:36 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:42:37 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:42:37 .......................................................................................... ~ 10s
+  2026-08-04 15:42:47 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:42:47 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:42:47 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:42:47 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:42:47 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:42:47 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:42:47 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:42:47 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:42:47 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:42:47 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:42:47 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:42:47 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:42:47 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:42:48 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:42:48 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:42:48 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:42:48 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:42:48 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:42:48 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:42:48 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:42:48 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:42:49 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:42:49 ........................................................................................... ~ 6s
+  2026-08-04 15:42:55 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:42:56 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:42:56 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:42:56 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:42:56 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:42:56 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:42:56 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:42:56 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:42:56 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:42:56 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:42:56 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:42:56 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:42:56 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:42:56 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:42:56 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:42:56 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:42:56 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:42:56 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:42:56 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:42:57 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:42:57 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:42:57 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:42:57 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:42:57 /js/employee/index.js ..................................................................... ~ 0s
+  2026-08-04 15:42:57 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:42:57 ........................................................................................... ~ 1s
+  2026-08-04 15:42:57 /js/custom.js ............................................................................. ~ 1s
+  2026-08-04 15:42:58 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:42:58 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:43:00 ........................................................................................... ~ 2s
+  2026-08-04 15:43:02 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 0s
+  2026-08-04 15:43:02 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 0s
+  2026-08-04 15:43:02 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:43:02 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:43:02 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:43:02 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:43:02 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:43:02 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:43:03 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:43:03 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:43:03 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:43:03 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:43:03 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:43:03 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:43:03 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:43:03 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:43:03 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:43:03 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:43:03 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:43:03 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:43:03 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:43:03 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:43:03 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:43:03 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:43:03 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:43:03 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:43:04 /js/employee/create.js .................................................................... ~ 0s
+  2026-08-04 15:43:04 /js/visitor/camera-capture.js ............................................................. ~ 0s
+  2026-08-04 15:43:04 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:43:04 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:43:04 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:43:04 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:43:04 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:43:04 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:43:04 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:43:04 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:43:04 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:43:04 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:43:05 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:43:05 .......................................................................................... ~ 61s
+  2026-08-04 15:44:07 .......................................................................................... ~ 14s
+  2026-08-04 15:44:07 /favicon.ico ............................................................................. ~ 16s
+  2026-08-04 15:44:21 .......................................................................................... ~ 46s
+  2026-08-04 15:45:08 .......................................................................................... ~ 35s
+  2026-08-04 15:45:08 .......................................................................................... ~ 35s
+  2026-08-04 15:45:44 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:45:44 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:45:44 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:45:44 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 0s
+  2026-08-04 15:45:44 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 0s
+  2026-08-04 15:45:44 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:45:44 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:45:44 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:45:44 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:45:44 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:45:44 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:45:44 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:45:44 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:45:44 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:45:44 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:45:44 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:45:44 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:45:44 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:45:45 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:45:45 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:45:45 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:45:45 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:45:45 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:45:45 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:45:45 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:45:45 /js/employee/create.js .................................................................... ~ 0s
+  2026-08-04 15:45:45 /js/visitor/camera-capture.js ............................................................. ~ 0s
+  2026-08-04 15:45:45 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:45:45 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:45:45 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:45:45 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:45:45 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:45:45 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:45:45 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:45:45 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:45:45 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:45:46 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:45:46 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:45:46 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:45:46 .......................................................................................... ~ 13s
+  2026-08-04 15:45:59 ........................................................................................... ~ 1s
+  2026-08-04 15:46:00 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:46:00 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:46:00 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:46:00 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 0s
+  2026-08-04 15:46:00 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 0s
+  2026-08-04 15:46:00 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:46:00 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:46:00 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:46:00 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:46:00 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:46:00 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:46:00 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:46:01 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:46:01 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:46:01 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:46:01 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:46:01 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:46:01 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:46:01 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:46:01 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:46:01 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:46:01 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:46:01 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:46:01 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:46:01 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:46:01 /js/employee/create.js .................................................................... ~ 0s
+  2026-08-04 15:46:01 /js/visitor/camera-capture.js ............................................................. ~ 0s
+  2026-08-04 15:46:01 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:46:01 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:46:01 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:46:02 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:46:02 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:46:02 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:46:02 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:46:02 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:46:02 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:46:02 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:46:02 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:46:02 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:46:03 .......................................................................................... ~ 18s
+  2026-08-04 15:46:21 /favicon.ico .............................................................................. ~ 1s
+  2026-08-04 15:47:31 ........................................................................................... ~ 4s
+  2026-08-04 15:47:31 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 4s
+  2026-08-04 15:47:36 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:47:36 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:47:36 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:47:36 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:47:36 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:47:36 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:47:36 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:47:36 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:47:36 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:47:36 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:47:36 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:47:36 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:47:36 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:47:36 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:47:36 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:47:36 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:47:36 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:47:36 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:47:37 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:47:37 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:47:37 /js/visitor/index.js ...................................................................... ~ 0s
+  2026-08-04 15:47:37 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:47:37 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:47:37 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:47:37 ........................................................................................... ~ 1s
+  2026-08-04 15:47:37 /js/custom.js ............................................................................. ~ 1s
+  2026-08-04 15:47:38 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:47:38 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:47:38 ........................................................................................... ~ 3s
+  2026-08-04 15:47:41 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:47:41 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:47:41 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:47:41 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 0s
+  2026-08-04 15:47:41 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 0s
+  2026-08-04 15:47:41 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:47:41 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:47:42 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:47:42 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:47:42 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:47:42 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:47:42 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:47:42 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:47:42 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:47:42 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:47:42 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:47:42 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:47:42 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:47:42 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:47:42 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:47:42 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:47:42 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:47:42 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:47:42 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:47:42 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:47:43 /js/visitor/create.js ..................................................................... ~ 0s
+  2026-08-04 15:47:43 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:47:43 /js/visitor/camera-capture.js ............................................................. ~ 0s
+  2026-08-04 15:47:43 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:47:43 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:47:43 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:47:43 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:47:43 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:47:43 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:47:43 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:47:43 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:47:43 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:47:43 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:47:43 /images/site_logo2.png .................................................................... ~ 0s
+  2026-08-04 15:52:07 ........................................................................................... ~ 0s
+  2026-08-04 15:52:07 ........................................................................................... ~ 1s
+  2026-08-04 15:52:09 ........................................................................................... ~ 1s
+  2026-08-04 15:52:10 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:52:10 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:52:10 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:52:10 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:52:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:52:11 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:52:11 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:52:11 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 15:52:11 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 15:52:11 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 15:52:11 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:52:11 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:52:11 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:52:11 /frontend/images/hero/mobilebg.png ........................................................ ~ 0s
+  2026-08-04 15:52:16 ........................................................................................... ~ 1s
+  2026-08-04 15:52:17 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:52:17 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:52:17 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:52:17 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:52:17 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:52:17 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:52:17 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:52:17 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:52:17 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:52:17 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:52:17 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:52:17 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:52:17 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:52:17 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:52:17 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:52:17 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:52:17 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:52:17 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:52:17 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:52:17 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:52:18 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:52:21 ........................................................................................... ~ 1s
+  2026-08-04 15:52:22 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:52:22 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:52:22 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:52:22 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:52:22 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:52:22 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:52:22 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:52:22 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:52:22 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:52:22 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:52:22 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:52:22 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:52:22 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:52:22 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:52:23 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:52:23 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:52:23 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:52:23 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:52:23 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:52:23 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:52:23 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:52:23 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:52:23 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:52:23 /js/employee/index.js ..................................................................... ~ 0s
+  2026-08-04 15:52:23 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:52:23 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:52:23 ........................................................................................... ~ 1s
+  2026-08-04 15:52:24 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:52:25 ........................................................................................... ~ 0s
+  2026-08-04 15:52:25 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 1s
+  2026-08-04 15:52:25 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 1s
+  2026-08-04 15:52:26 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:52:26 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:52:26 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:52:26 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:52:26 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:52:26 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:52:26 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:52:26 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:52:26 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:52:26 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:52:26 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:52:26 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:52:26 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:52:26 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:52:26 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:52:26 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:52:26 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:52:26 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:52:27 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:52:27 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:52:27 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:52:27 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:52:27 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:52:27 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:52:27 /js/employee/create.js .................................................................... ~ 0s
+  2026-08-04 15:52:27 /js/visitor/camera-capture.js ............................................................. ~ 0s
+  2026-08-04 15:52:27 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:52:27 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:52:27 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:52:27 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:52:27 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:52:27 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:52:27 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:52:27 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:52:27 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:52:28 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:52:28 .......................................................................................... ~ 51s
+  2026-08-04 15:53:19 ........................................................................................... ~ 1s
+  2026-08-04 15:53:20 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:53:20 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:53:20 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:53:20 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:53:20 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:53:20 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:53:20 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:53:20 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:53:20 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:53:20 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:53:20 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:53:20 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:53:21 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:53:21 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:53:21 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:53:21 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:53:21 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:53:21 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:53:21 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:53:21 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:53:21 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:53:21 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:53:21 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:53:21 /js/employee/index.js ..................................................................... ~ 0s
+  2026-08-04 15:53:21 ........................................................................................... ~ 1s
+  2026-08-04 15:53:21 /assets/js/scripts.js ..................................................................... ~ 1s
+  2026-08-04 15:53:21 /js/custom.js ............................................................................. ~ 1s
+  2026-08-04 15:53:21 /beep.mp3 ................................................................................. ~ 1s
+  2026-08-04 15:53:22 /uploads/3/user_w6wRwBr1pFJb.png .......................................................... ~ 0s
+  2026-08-04 15:53:27 ........................................................................................... ~ 1s
+  2026-08-04 15:53:28 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:53:28 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:53:28 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:53:28 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:53:28 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:53:28 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:53:28 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:53:28 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:53:28 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:53:28 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:53:28 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:53:28 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:53:28 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:53:28 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:53:29 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:53:29 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:53:29 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:53:29 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:53:29 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:53:29 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:53:29 /js/visitor/index.js ...................................................................... ~ 0s
+  2026-08-04 15:53:29 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:53:29 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:53:29 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:53:29 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:53:29 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:53:29 ........................................................................................... ~ 1s
+  2026-08-04 15:53:30 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:53:30 ........................................................................................... ~ 3s
+  2026-08-04 15:53:33 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:53:33 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:53:33 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:53:33 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 0s
+  2026-08-04 15:53:33 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 0s
+  2026-08-04 15:53:33 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:53:33 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:53:33 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:53:33 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:53:33 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:53:33 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:53:33 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:53:33 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:53:34 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:53:34 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:53:34 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:53:34 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:53:34 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:53:34 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:53:34 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:53:34 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:53:34 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:53:34 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:53:34 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:53:34 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:53:34 /js/visitor/create.js ..................................................................... ~ 0s
+  2026-08-04 15:53:34 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:53:34 /js/visitor/camera-capture.js ............................................................. ~ 0s
+  2026-08-04 15:53:34 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:53:34 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:53:34 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:53:35 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:53:35 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:53:35 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:53:35 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:53:35 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:53:35 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:53:35 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:53:35 ........................................................................................... ~ 1s
+  2026-08-04 15:53:36 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:53:37 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:53:37 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:53:37 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:53:37 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:53:37 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:53:37 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:53:37 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:53:37 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:53:37 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:53:37 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:53:37 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:53:37 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:53:37 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:53:37 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:53:37 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:53:37 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:53:37 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:53:37 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:53:38 /js/designation/index.js .................................................................. ~ 0s
+  2026-08-04 15:53:38 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:53:38 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:53:38 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:53:38 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:53:38 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:53:38 ........................................................................................... ~ 1s
+  2026-08-04 15:53:38 /js/custom.js ............................................................................. ~ 1s
+  2026-08-04 15:53:39 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:53:45 ........................................................................................... ~ 0s
+  2026-08-04 15:53:45 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:53:45 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:53:46 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:53:46 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:53:46 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:53:46 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:53:46 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:53:46 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:53:46 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:53:46 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:53:46 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:53:46 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:53:46 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:53:46 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:53:46 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:53:46 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:53:46 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:53:46 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:53:46 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:53:46 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:53:47 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:53:47 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:53:47 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:53:47 /js/visitor/index.js ...................................................................... ~ 0s
+  2026-08-04 15:53:47 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:53:47 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:53:47 ........................................................................................... ~ 1s
+  2026-08-04 15:53:47 /beep.mp3 ................................................................................. ~ 1s
+  2026-08-04 15:53:48 ........................................................................................... ~ 1s
+  2026-08-04 15:53:49 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:53:50 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:53:50 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:53:50 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 0s
+  2026-08-04 15:53:50 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 0s
+  2026-08-04 15:53:50 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:53:50 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:53:50 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:53:50 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:53:50 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:53:50 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:53:50 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:53:50 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:53:50 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:53:50 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:53:50 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:53:50 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:53:50 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:53:50 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:53:51 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:53:51 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:53:51 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:53:51 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:53:51 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:53:51 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:53:51 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:53:51 /js/visitor/create.js ..................................................................... ~ 0s
+  2026-08-04 15:53:51 /js/visitor/camera-capture.js ............................................................. ~ 0s
+  2026-08-04 15:53:51 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:53:51 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:53:51 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:53:51 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:53:51 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:53:51 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:53:51 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:53:51 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:53:51 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:53:52 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:53:52 .......................................................................................... ~ 70s
+  2026-08-04 15:55:02 ........................................................................................... ~ 3s
+  2026-08-04 15:55:02 ........................................................................................... ~ 4s
+  2026-08-04 15:55:05 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 1s
+  2026-08-04 15:55:07 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:55:07 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:55:07 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:55:07 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:55:07 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:55:07 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:55:07 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:55:07 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:55:07 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:55:07 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:55:07 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:55:07 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:55:07 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:55:07 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:55:07 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:55:07 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:55:07 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:55:07 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:55:07 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:07 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:55:07 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 1s
+  2026-08-04 15:55:07 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 1s
+  2026-08-04 15:55:07 /js/visitor/index.js ...................................................................... ~ 1s
+  2026-08-04 15:55:07 /assets/js/scripts.js ..................................................................... ~ 1s
+  2026-08-04 15:55:08 ........................................................................................... ~ 1s
+  2026-08-04 15:55:08 /js/custom.js ............................................................................. ~ 1s
+  2026-08-04 15:55:09 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:55:09 /uploads/4/visitor_19DHNHiuPYwe.png ....................................................... ~ 0s
+  2026-08-04 15:55:15 ........................................................................................... ~ 1s
+  2026-08-04 15:55:16 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:55:16 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:55:16 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:55:16 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:55:16 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:55:16 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:55:16 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:55:16 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:55:16 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:55:16 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:55:16 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:55:16 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:55:16 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:55:16 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:55:17 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:55:17 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:55:17 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:55:17 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:17 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:55:17 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:55:17 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:55:17 .......................................................................................... ~ 11s
+  2026-08-04 15:55:28 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:55:28 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 1s
+  2026-08-04 15:55:28 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 1s
+  2026-08-04 15:55:28 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 1s
+  2026-08-04 15:55:28 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 1s
+  2026-08-04 15:55:28 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 1s
+  2026-08-04 15:55:29 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:55:29 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:55:29 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:55:29 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:55:29 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:55:29 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:55:29 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:55:29 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:55:29 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:55:29 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:55:29 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 15:55:29 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 15:55:29 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 15:55:29 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:55:29 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:29 /frontend/images/hero/background.jpg ...................................................... ~ 1s
+  2026-08-04 15:55:31 ........................................................................................... ~ 1s
+  2026-08-04 15:55:32 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:55:32 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:55:32 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:55:32 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:55:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:55:32 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:55:32 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:55:32 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:55:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:55:32 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 1s
+  2026-08-04 15:55:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 1s
+  2026-08-04 15:55:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 1s
+  2026-08-04 15:55:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 1s
+  2026-08-04 15:55:32 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 1s
+  2026-08-04 15:55:33 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:55:33 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:55:33 /frontend/images/visitor_details/image2.png ............................................... ~ 0s
+  2026-08-04 15:55:33 /frontend/images/visitor_details/image1.png ............................................... ~ 0s
+  2026-08-04 15:55:33 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:55:33 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:55:33 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:33 ........................................................................................... ~ 1s
+  2026-08-04 15:55:34 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:55:34 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:55:35 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:55:35 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:55:35 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:55:35 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:55:35 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:55:35 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:55:35 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:55:35 /frontend/images/visitor_details/image1.png ............................................... ~ 0s
+  2026-08-04 15:55:35 /frontend/images/visitor_details/image2.png ............................................... ~ 0s
+  2026-08-04 15:55:35 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:55:36 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:40 ........................................................................................... ~ 1s
+  2026-08-04 15:55:41 ........................................................................................... ~ 1s
+  2026-08-04 15:55:41 /build/assets/app.4109e52c.css ............................................................ ~ 1s
+  2026-08-04 15:55:42 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:55:42 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:55:42 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:55:42 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:55:42 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:55:42 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:55:42 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:55:42 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:55:42 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:55:42 /frontend/images/visitor_details/image1.png ............................................... ~ 0s
+  2026-08-04 15:55:42 /frontend/images/visitor_details/image2.png ............................................... ~ 0s
+  2026-08-04 15:55:42 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:55:43 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:55:43 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:55:43 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:55:43 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:55:43 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:55:43 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:55:43 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:43 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:55:52 ........................................................................................... ~ 0s
+  2026-08-04 15:55:52 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:55:52 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:55:53 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:55:53 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:55:53 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:55:53 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:55:53 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:55:53 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:55:53 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:55:53 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:55:53 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:55:53 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:55:53 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:55:53 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:55:53 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:55:53 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:55:53 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:55:53 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:53 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:55:53 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:55:54 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:55:55 ........................................................................................... ~ 1s
+  2026-08-04 15:55:56 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:55:56 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:55:57 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:55:57 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:55:57 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:55:57 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:55:57 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:55:57 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:55:57 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:55:57 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:55:57 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:55:57 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:55:57 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:55:57 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:55:57 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:55:57 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:55:57 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:55:57 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:55:57 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:55:57 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:55:58 /js/preregister/index.js .................................................................. ~ 0s
+  2026-08-04 15:55:58 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:55:58 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:55:58 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:55:58 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:55:58 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:55:58 ........................................................................................... ~ 1s
+  2026-08-04 15:55:59 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:55:59 ........................................................................................... ~ 2s
+  2026-08-04 15:56:01 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:56:02 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:56:02 /assets/modules/select2/dist/css/select2.min.css .......................................... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/bootstrap-social/bootstrap-social.css ..................................... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/summernote/summernote-bs4.css ............................................. ~ 0s
+  2026-08-04 15:56:02 /assets/modules/bootstrap-datepicker/css/bootstrap-datepicker.min.css ..................... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/bootstrap-timepicker/css/bootstrap-timepicker.min.css ..................... ~ 0s
+  2026-08-04 15:56:02 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:56:02 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:56:02 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:56:02 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:56:02 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:56:02 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:56:02 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:56:02 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:56:02 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:56:02 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:56:02 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:56:02 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:56:02 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:56:02 /assets/modules/select2/dist/js/select2.full.min.js ....................................... ~ 0s
+  2026-08-04 15:56:03 /assets/modules/bootstrap-timepicker/js/bootstrap-timepicker.min.js ....................... ~ 0s
+  2026-08-04 15:56:03 /js/preregister/create.js ................................................................. ~ 0s
+  2026-08-04 15:56:03 /assets/modules/bootstrap-datepicker/js/bootstrap-datepicker.min.js ....................... ~ 0s
+  2026-08-04 15:56:03 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:56:03 /js/custom.js ............................................................................. ~ 0s
+  2026-08-04 15:56:03 /assets/modules/summernote/summernote-bs4.js .............................................. ~ 0s
+  2026-08-04 15:56:03 /assets/modules/summernote/font/summernote.woff?e557617934c52ea068954af79ed7c221 .......... ~ 0s
+  2026-08-04 15:56:03 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:56:03 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:56:03 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:56:03 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:56:03 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:56:03 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:56:03 /beep.mp3 ................................................................................. ~ 0s
+  2026-08-04 15:57:00 ........................................................................................... ~ 2s
+  2026-08-04 15:57:00 ........................................................................................... ~ 3s
+  2026-08-04 15:57:02 /assets/modules/bootstrap/dist/css/bootstrap.min.css ...................................... ~ 1s
+  2026-08-04 15:57:04 /assets/modules/@fortawesome/fontawesome-free/css/all.min.css ............................. ~ 0s
+  2026-08-04 15:57:04 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:57:04 /assets/modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css ...................... ~ 0s
+  2026-08-04 15:57:04 /assets/modules/datatables.net-select-bs4/css/select.bootstrap4.min.css ................... ~ 0s
+  2026-08-04 15:57:04 /assets/css/dropzone.css .................................................................. ~ 0s
+  2026-08-04 15:57:04 /assets/css/style.css ..................................................................... ~ 0s
+  2026-08-04 15:57:04 /assets/css/components.css ................................................................ ~ 0s
+  2026-08-04 15:57:04 /css/custom.css ........................................................................... ~ 0s
+  2026-08-04 15:57:04 /assets/modules/jquery/dist/jquery.min.js ................................................. ~ 0s
+  2026-08-04 15:57:04 /assets/img/default/user.png .............................................................. ~ 0s
+  2026-08-04 15:57:04 /assets/modules/popper.js/dist/popper.min.js .............................................. ~ 0s
+  2026-08-04 15:57:04 /assets/modules/bootstrap/dist/js/bootstrap.min.js ........................................ ~ 0s
+  2026-08-04 15:57:04 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 ................. ~ 0s
+  2026-08-04 15:57:04 /assets/modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 ............... ~ 0s
+  2026-08-04 15:57:04 /assets/modules/jquery.nicescroll/dist/jquery.nicescroll.min.js ........................... ~ 0s
+  2026-08-04 15:57:04 /assets/modules/moment/min/moment.min.js .................................................. ~ 0s
+  2026-08-04 15:57:04 /assets/js/dropzone.min.js ................................................................ ~ 0s
+  2026-08-04 15:57:04 /assets/js/stisla.js ...................................................................... ~ 0s
+  2026-08-04 15:57:05 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:57:05 /assets/modules/datatables/media/js/jquery.dataTables.min.js .............................. ~ 0s
+  2026-08-04 15:57:05 /assets/modules/datatables.net-bs4/js/dataTables.bootstrap4.min.js ........................ ~ 0s
+  2026-08-04 15:57:05 /assets/modules/datatables.net-select-bs4/js/select.bootstrap4.min.js ..................... ~ 0s
+  2026-08-04 15:57:05 /js/preregister/index.js .................................................................. ~ 0s
+  2026-08-04 15:57:05 /assets/js/scripts.js ..................................................................... ~ 0s
+  2026-08-04 15:57:05 ........................................................................................... ~ 1s
+  2026-08-04 15:57:05 /js/custom.js ............................................................................. ~ 1s
+  2026-08-04 15:57:05 /beep.mp3 ................................................................................. ~ 1s
+  2026-08-04 15:57:13 ........................................................................................... ~ 1s
+  2026-08-04 15:57:14 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:57:14 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:57:14 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:57:14 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:57:14 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:57:15 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:57:15 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:57:15 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 15:57:15 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 15:57:15 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 15:57:15 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:57:15 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:57:15 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:57:16 ........................................................................................... ~ 1s
+  2026-08-04 15:57:17 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 15:57:17 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:57:17 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:57:17 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:57:17 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:57:17 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:57:17 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:57:17 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:57:18 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:57:18 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:57:18 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:57:18 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:57:18 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:57:18 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:57:18 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:57:18 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:57:18 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:57:18 /frontend/images/visitor_details/image2.png ............................................... ~ 0s
+  2026-08-04 15:57:18 /frontend/images/visitor_details/image1.png ............................................... ~ 0s
+  2026-08-04 15:57:18 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:57:18 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:57:24 ........................................................................................... ~ 0s
+  2026-08-04 15:57:24 ........................................................................................... ~ 2s
+  2026-08-04 15:57:24 /build/assets/app.4109e52c.css ............................................................ ~ 2s
+  2026-08-04 15:57:27 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 15:57:27 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 15:57:27 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 15:57:27 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 15:57:27 /assets/lib/inttelinput/css/intlTelInput.css .............................................. ~ 0s
+  2026-08-04 15:57:27 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 15:57:27 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 15:57:27 /frontend/images/visitor_details/image1.png ............................................... ~ 0s
+  2026-08-04 15:57:27 /frontend/images/visitor_details/image2.png ............................................... ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 15:57:27 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 15:57:28 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 15:57:28 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-04 15:57:28 /assets/lib/inttelinput/js/intlTelInput-jquery.js ......................................... ~ 0s
+  2026-08-04 15:57:28 /assets/lib/inttelinput/js/intlTelInput.js ................................................ ~ 0s
+  2026-08-04 15:57:28 /assets/lib/inttelinput/js/utils.js ....................................................... ~ 0s
+  2026-08-04 15:57:28 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 15:57:28 /assets/lib/inttelinput/js/data.js ........................................................ ~ 0s
+  2026-08-04 15:57:28 /assets/lib/inttelinput/js/init.js ........................................................ ~ 0s
+  2026-08-04 15:57:28 /assets/lib/inttelinput/img/flags@2x.png .................................................. ~ 0s
+  2026-08-04 15:47:44 ......................................................................................... ~ 599s
+  2026-08-04 15:57:29 ........................................................................................ ~ 1606s
+  2026-08-04 17:26:06 ........................................................................................... ~ 0s
+  2026-08-04 17:26:06 ........................................................................................... ~ 2s
+  2026-08-04 17:26:09 ........................................................................................... ~ 0s
+  2026-08-04 17:26:09 /build/assets/app.4109e52c.css ............................................................ ~ 0s
+  2026-08-04 17:26:09 /frontend/fonts/fontawesome/css/fontawesome.css ........................................... ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/fontawesome/css/brands.css ................................................ ~ 0s
+  2026-08-04 17:26:10 /frontend/css/custom.css .................................................................. ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/fontawesome/css/solid.css ................................................. ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans.css .......................... ~ 0s
+  2026-08-04 17:26:10 /assets/modules/izitoast/dist/css/iziToast.min.css ........................................ ~ 0s
+  2026-08-04 17:26:10 /frontend/css/style.css ................................................................... ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-SemiBold.ttf ................. ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/fontawesome/webfonts/fa-solid-900.woff2 ................................... ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Regular.ttf .................. ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Medium.ttf ................... ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-ExtraBold.ttf ................ ~ 0s
+  2026-08-04 17:26:10 /frontend/fonts/typography/plus-JAKARTA-SANS/PlusJakartaSans-Bold.ttf ..................... ~ 0s
+  2026-08-04 17:26:10 /frontend/js/jquery.js .................................................................... ~ 0s
+  2026-08-04 17:26:10 /images/site_logo.png ..................................................................... ~ 0s
+  2026-08-04 17:26:10 /frontend/images/hero/Qr%20Code.png ....................................................... ~ 0s
+  2026-08-04 17:26:10 /frontend/images/hero/img1.png ............................................................ ~ 0s
+  2026-08-04 17:26:10 /frontend/images/hero/img2.png ............................................................ ~ 0s
+  2026-08-04 17:26:10 /frontend/images/hero/background.jpg ...................................................... ~ 0s
+  2026-08-04 17:26:11 /frontend/js/script.js .................................................................... ~ 0s
+  2026-08-04 17:26:11 /assets/modules/izitoast/dist/js/iziToast.min.js .......................................... ~ 0s
+  2026-08-10 09:59:46 ........................................................................................... ~ 0s
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:80].  
+
+  Press Ctrl+C to stop the server
+
+2026-08-10 10:00:57  
+   INFO  Nothing to migrate.  
+
+   INFO  Seeding database.  
+
+  Database\Seeders\SettingTableSeeder ........................................................................ RUNNING  
+  Database\Seeders\SettingTableSeeder .................................................................... 465 ms DONE  
+
+  Database\Seeders\RoleTableSeeder ........................................................................... RUNNING  
+
+   Illuminate\Database\UniqueConstraintViolationException 
+
+  SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: roles.name, roles.guard_name (Connection: sqlite, SQL: insert into "roles" ("created_at", "guard_name", "name", "updated_at") values (2026-08-10 10:00:53, web, Admin, 2026-08-10 10:00:53), (2026-08-10 10:00:53, web, Employee, 2026-08-10 10:00:53), (2026-08-10 10:00:53, web, Reception, 2026-08-10 10:00:53))
+
+  at vendor\laravel\framework\src\Illuminate\Database\Connection.php:824
+    820â–•         // message to include the bindings with SQL, which will make this exception a
+    821â–•         // lot more helpful to the developer instead of just the database's errors.
+    822â–•         catch (Exception $e) {
+    823â–•             if ($this->isUniqueConstraintError($e)) {
+  âžœ 824â–•                 throw new UniqueConstraintViolationException(
+    825â–•                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826â–•                 );
+    827â–•             }
+    828â–•
+
+  1   vendor\laravel\framework\src\Illuminate\Database\Connection.php:587
+      PDOException::("SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: roles.name, roles.guard_name")
+
+  2   vendor\laravel\framework\src\Illuminate\Database\Connection.php:587
+      PDOStatement::execute()
+
+
+
+2026-08-10 10:00:57  FATAL: Database migrate/seed failed. See output above / runtime/server.log.
