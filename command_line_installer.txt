@@ -1,0 +1,47 @@
+Install Python 3 
+
+install git ,  https://git-scm.com/download/win (https://git-scm.com/download/win)
+
+git clone https://github.com/Soutak1984/s-ib_visitor_pass_management.git
+
+cd s-ib_visitor_pass_management
+
+START.bat
+
+• open http://visitorpass.localhost/
+
+Default login (from your local server setup):
+• Email: admin@example.com
+• Password: 123456
+
+-----------------------------------------------------------
+IMPORTANT: vendor folder is NOT on GitHub (normal for Laravel)
+
+The folder:
+  codecanyon-24643230-visitor-pass-management-system\vendor
+
+is listed in .gitignore, so git clone will not include it.
+
+On FIRST START.bat after clone, the launcher will:
+  1) If vendor_original/ exists → copy it to vendor/ (fast, offline, preferred)
+  2) Else run Composer install (needs internet; several minutes)
+
+NOTE: package davejamesmiller/laravel-breadcrumbs is abandoned and its GitHub
+repo returns 404. Prefer shipping vendor_original/ with the project, or use
+packages/davejamesmiller/laravel-breadcrumbs (local path package).
+
+If vendor install fails:
+  1) Prefer: keep/copy vendor_original next to the app and re-run START.bat
+  2) Or copy a working vendor folder from another PC
+  3) Check internet / firewall if using Composer download path
+
+Note: JWT packages need PHP ext-sodium.
+  START.bat tries to download php_sodium.dll into php\ext\
+  and always runs Composer with --ignore-platform-req=ext-sodium
+  so install can finish even if sodium DLL is missing.
+
+Useful commands later:
+
+cd /d %USERPROFILE%\Desktop\s-ib_visitor_pass_management
+START.bat
+STOP.bat
